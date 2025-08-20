@@ -7,19 +7,23 @@
 
 
 ### - 目标 :
-- ✨ 强健的身体<br>
+- ✨ 强健的身体
 
-- ✨ 写好代码<br>
+- ✨ 写好代码
 
-- ✨ 照顾好家人<br>
+- ✨ 照顾好家人
 
 - ✨ 有钱
 
-### - 人生信条 : 
-- ✨ 要相信科学
+### - 信条 : 
+- ✨ 坚信科学
   
 - ✨ 多看医生 
 
-- ✨ 成功的步骤：调研需求，打造产品，增加曝光，数据复盘，人亦相同。
+- ✨ 所谓成功：专注目标，调研需求，打造产品，增加曝光，数据复盘。
 
+# 足迹:
 
+<p align="center" >  
+<img src="https://github-readme-stats.vercel.app/api?username=coderbullbull&&show_icons=true&theme=solarized_light"/>
+</p>
