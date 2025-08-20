@@ -1,7 +1,7 @@
 # Live long and prosper 🖖
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://s1.aigei.com/prevfiles/37964cf6b66545368e6c25037bf3e372.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:s74bVpUeBoxCxvjHhRlJbVpvySU=">
+<img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b">
 </div>
 
 </br>
