@@ -1,12 +1,10 @@
-# Live long and prosper 🖖
+# Live long and prosper 🖖 
 
-# 关于我 💬 :
+# 关于我 💬 : 
 
-### - 一名赛级程序员
+### - 一名赛级程序员 <img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b" align="right" width="400" height="400"/>
 
-<div align="right">
-<img height="400" width="400" align="right" src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b">
-</div>
+
 
 ### - 目标 :
 - ✨ 强健的身体<br>
@@ -20,8 +18,8 @@
 ### - 人生信条 : 
 - ✨ 要相信科学
   
-- ✨ 多看医生
+- ✨ 多看医生 
 
-- ✨ 成功的步骤：调研市场需求，打造符合需求的产品，想办法增加曝光，记录数据进行复盘，优化产品继续曝光，人亦相同。
+- ✨ 成功的步骤：调研需求，打造产品，增加曝光，数据复盘，人亦相同。
 
 
