@@ -2,7 +2,7 @@
 
 # 关于我 💬 : 
 
-### - 一名赛级程序员 <img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b"  alt="修行之道" align="right" width="400" height="400"/>
+### - 一名赛级程序员 <img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b"  alt="修行之道" align="right" width="400" height="400">
 
 
 
@@ -25,5 +25,5 @@
 # 足迹:
 
 <p align="center" >  
-<img src="https://github-readme-stats.vercel.app/api?username=coderbullbull&&show_icons=true&theme=solarized_light"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coderbullbull&show_icons=true&theme=solarized_light">
 </p>
