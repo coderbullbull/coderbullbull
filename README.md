@@ -2,7 +2,7 @@
 
 # 关于我 💬 : 
 
-### - 一名虚空程序员 <img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b"  alt="修行之道" align="right" width="400" height="400">
+### - 三俗coder <img src="https://pic1.zhimg.com/80/v2-317d4ed80993736c849c9105ffef751d_720w.webp?source=d16d100b"  alt="修行之道" align="right" width="400" height="400">
 
 
 
@@ -15,6 +15,7 @@
 
 ### - 信条 : 
 - ✨ 相信科学
+  
 - ✨ 高价值导向
   
 # 足迹:
